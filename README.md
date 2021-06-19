@@ -21,43 +21,21 @@ Deliverable 1: Create a Linear Regression to Predict MPG
 ## Linear Regression to Predict MPG
 Answers to questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-The ones that show the lower p-values provide a non-random amount of variance.  These would be the vehicle length and the ground clearance.
+The ones that show the lower p-values provide a non-random amount of variance and have the greatest significance.  These would be the vehicle length and the ground clearance.
 - Is the slope of the linear model considered to be zero? Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
 
+Deliverable 2: Summary Statistics on Suspension Coils
+1. Download the Suspension_Coil.csv file, and place it in the active directory for your R session.
+2. In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
+3. Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
+4. Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
+5. Save your MechaCarChallenge.RScript file to your GitHub repository.
 
-New data created to use in Tableau:
 
-![alt text](https://github.com/austin020269/biksharing/blob/main/Cleaned_data_Aug_2019.PNG)
 
-Deliverable 2:  For the following displays gender (number) sequences in the "Number of String" legends are female (2), male (1) and unknown (0).
-1. There is a line graph displaying the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
-![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_1.PNG)
 
-2. There is a line graph displaying the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
-![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_2.PNG)
 
-3. A heatmap is created showing the number of bike trips for each hour of each day of the week.
-![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_3.PNG)
-
-4. A heatmap is created showing the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender.
-![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_4.PNG)
-
-5. A heatmap is created showing the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
-![alt text](https://github.com/austin020269/biksharing/blob/main/Deli2_5.PNG)
-
-Deliverable 3: Results
-
-Some of the conclusions that can be drawn from the products that were made during this project include:
-
-- Males are the largest users of the service which is backed by all data products.
-- Most bike rides are between 3 and 15 minutes for both males and females (Deli 2 Image 1 and 2).
-- Weekends show more consistent riding during the days while weekdays show peak hours before and after work during high commute times (Deli 2 Image 3 and 4)
-- The greatest usage of the service is by males with the most usage on Thursdays and Fridays.
-
-Further details of this study can be seen on the Tableau public dashboards : 
-
-https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudy_16229476255070/Story1
-https://public.tableau.com/app/profile/jeffrey.keith.austin/viz/NYCCitiBikeStudyadditionaldata/Story1
+## Summary Statistics on Suspension
