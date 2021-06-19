@@ -16,8 +16,7 @@ Data provided for the project included the miles per gallon .csv (MechaCar_mpg.c
 1. Use the library() function to load the dplyr package.
 2. Import and read in the MechaCar_mpg.csv file as a dataframe.
 3. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
-4. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
-5. Save your MechaCarChallenge.RScript file to your GitHub repository. 
+4. Using the summary() function, determine the p-value and the r-squared value for the linear regression model. 
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image_1.PNG)
 
@@ -37,8 +36,8 @@ This linear model does predict the prototypes reasonably well as it has an R-squ
 2. In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
 3. Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
 4. Write an RScript that creates a lot_summary dataframe using the group_by() and the summarize() functions to group each manufacturing lot by the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
-5. Save your MechaCarChallenge.RScript file to your GitHub repository.
 
+![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_1.PNG)
 
 
 
