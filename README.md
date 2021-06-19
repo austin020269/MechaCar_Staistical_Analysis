@@ -21,7 +21,7 @@ Deliverable 1: Create a Linear Regression to Predict MPG
 ## Linear Regression to Predict MPG
 Answers to questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-
+The ones that show the lower p-values provide a non-random amount of variance.  These would be the vehicle length and the ground clearance.
 - Is the slope of the linear model considered to be zero? Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
