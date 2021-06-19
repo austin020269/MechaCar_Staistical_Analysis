@@ -30,7 +30,7 @@ Vatiables that show lower p-values provide a non-random amount of variance and h
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
 
-Deliverable 2: Summary Statistics on Suspension Coils
+### Deliverable 2: Summary Statistics on Suspension Coils
 1. Download the Suspension_Coil.csv file, and place it in the active directory for your R session.
 2. In your MechaCarChallenge.RScript, import and read in the Suspension_Coil.csv file as a table.
 3. Write an RScript that creates a total_summary dataframe using the summarize() function to get the mean, median, variance, and standard deviation of the suspension coil’s PSI column.
