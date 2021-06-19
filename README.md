@@ -18,11 +18,10 @@ Deliverable 1: Create a Linear Regression to Predict MPG
 3. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
 4. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
 5. Save your MechaCarChallenge.RScript file to your GitHub repository. 
+## Linear Regression to Predict MPG
 
-Pandas code:
+![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
 
-![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1.PNG)
-![alt text](https://github.com/austin020269/biksharing/blob/main/CH1_Deli1_2.PNG)
 
 New data created to use in Tableau:
 
