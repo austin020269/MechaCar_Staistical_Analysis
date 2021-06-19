@@ -20,6 +20,11 @@ Deliverable 1: Create a Linear Regression to Predict MPG
 5. Save your MechaCarChallenge.RScript file to your GitHub repository. 
 ## Linear Regression to Predict MPG
 
+In this Deliverable we wanted to answee
+- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+- Is the slope of the linear model considered to be zero? Why or why not?
+- Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
 
 
