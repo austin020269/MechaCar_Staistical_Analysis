@@ -56,5 +56,12 @@ Whether or not the lots meet the design specifications can be answered by lookin
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_1.PNG)
 
+Test 1 (Lot 1):
+
+Test 2 (Lot 2):
+
+Test 3 (Lot 3):
+
+
 
 ## Study Design: MechaCar vs Competition (Analysis)
