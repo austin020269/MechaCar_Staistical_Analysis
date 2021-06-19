@@ -75,3 +75,8 @@ Test 3 (Lot 3):
 
 
 ## Study Design: MechaCar vs Competition (Analysis)
+For this deliverable we are asked to provide answers to the following questions:
+- What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
