@@ -56,7 +56,7 @@ Whether or not the lots meet the design specifications can be answered by lookin
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_1.PNG)
 
-Total Lots (all cars):
+All manufacturing lots (all cars):
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_3_Image_2.PNG)
 
