@@ -1,8 +1,8 @@
-##MechaCar_Staistical_Analysis
+## MechaCar_Staistical_Analysis
 
 UT Bootcamp Module 15 Challenge
 
-## Project Overview
+# Project Overview
 To research and analyze the miles per gallon and suspension coils data to provide statistical insights to the manufacturing team at MechaCar.
 
 ## Resources
@@ -11,7 +11,7 @@ Data provided for the project included the miles per gallon csv (MechaCar_mpg.cs
 - RStudio (version 1.4.1717)
 - Personal Github account
 
-## Analysis and Workflow 
+# Analysis and Workflow 
 Deliverable 1: Create a Linear Regression to Predict MPG
 1. Use the library() function to load the dplyr package.
 2. Import and read in the MechaCar_mpg.csv file as a dataframe.
