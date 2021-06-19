@@ -11,7 +11,7 @@ Data provided for the project included the miles per gallon csv (MechaCar_mpg.cs
 - RStudio (version 1.4.1717)
 - Personal Github account
 
-## Analysis and Workflow - 
+## Analysis and Workflow 
 Deliverable 1: Create a Linear Regression to Predict MPG
 1. Use the library() function to load the dplyr package.
 2. Import and read in the MechaCar_mpg.csv file as a dataframe.
