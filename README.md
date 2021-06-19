@@ -23,7 +23,7 @@ Data provided for the project included the miles per gallon .csv (MechaCar_mpg.c
 ### Linear Regression to Predict MPG (Analysis)
 For this deliverable we are asked to provide answers to the following questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-Vatiables that show lower p-values provide a non-random amount of variance and have the greatest significance.  These would be the vehicle length and the ground clearance.
+Variables that show lower p-values provide a non-random amount of variance and have the greatest significance.  These would be the vehicle length and the ground clearance.
 - Is the slope of the linear model considered to be zero? Why or why not?
 The slope is of the linear regression is not considered to be zero because of the effect the independent veriables have on the depandent variable. 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
@@ -48,4 +48,4 @@ lot_summary dataframe:
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_3.PNG)
 
 ## Summary Statistics on Suspension Coils (Analysis)
-Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually.  As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100.  Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.  
+Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually and can be seen in both dataframes.  As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100.  Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.  
