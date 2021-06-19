@@ -47,4 +47,5 @@ lot_summary dataframe:
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_3.PNG)
 
-## Summary Statistics on Suspension (Analysis)
+## Summary Statistics on Suspension Coils (Analysis)
+Whether or not the lots meet the design specifications can be answered by looking at the variance as a total and individually.  As a whole, the total_summry table shows that they do with the variance of 76, which is within our tolerance of < 100.  Individually, Lots 1 and 2 meet this requirement, however Lot 3 does not.  
