@@ -19,7 +19,7 @@ Deliverable 1: Create a Linear Regression to Predict MPG
 4. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
 5. Save your MechaCarChallenge.RScript file to your GitHub repository. 
 ## Linear Regression to Predict MPG
-Answers to questions:
+For this deliverable we are asked to provide answers to the following questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 The ones that show the lower p-values provide a non-random amount of variance and have the greatest significance.  These would be the vehicle length and the ground clearance.
 - Is the slope of the linear model considered to be zero? Why or why not?
