@@ -12,7 +12,7 @@ Data provided for the project included the miles per gallon .csv (MechaCar_mpg.c
 - Personal Github account
 
 ## Analysis and Workflow 
-### Deliverable 1: Create a Linear Regression to Predict MPG (Six variables used - vehicle length, vehicle weight, spoiler angle, ground clearance, AWD and mpg) 
+### Deliverable 1: Linear Regression to Predict MPG (Six variables used - vehicle length, vehicle weight, spoiler angle, ground clearance, AWD and mpg) 
 1. Use the library() function to load the dplyr package.
 2. Import and read in the MechaCar_mpg.csv file as a dataframe.
 3. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
@@ -20,7 +20,7 @@ Data provided for the project included the miles per gallon .csv (MechaCar_mpg.c
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image_1.PNG)
 
-### Linear Regression to Predict MPG
+### Linear Regression to Predict MPG (Analysis)
 For this deliverable we are asked to provide answers to the following questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Vatiables that show lower p-values provide a non-random amount of variance and have the greatest significance.  These would be the vehicle length and the ground clearance.
@@ -47,7 +47,4 @@ lot_summary dataframe:
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_3.PNG)
 
-
-
-
-## Summary Statistics on Suspension
+## Summary Statistics on Suspension (Analysis)
