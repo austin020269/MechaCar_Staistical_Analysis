@@ -18,6 +18,9 @@ Deliverable 1: Create a Linear Regression to Predict MPG (Six variables used - v
 3. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
 4. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
 5. Save your MechaCarChallenge.RScript file to your GitHub repository. 
+
+![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_1_Image.PNG)
+
 ### Linear Regression to Predict MPG
 For this deliverable we are asked to provide answers to the following questions:
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
