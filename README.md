@@ -12,7 +12,7 @@ Data provided for the project included the miles per gallon .csv (MechaCar_mpg.c
 - Personal Github account
 
 ## Analysis and Workflow 
-Deliverable 1: Create a Linear Regression to Predict MPG (Six variables used - vehicle length, vehicle weight, spoiler angle, ground clearance, AWD and mpg) 
+### Deliverable 1: Create a Linear Regression to Predict MPG (Six variables used - vehicle length, vehicle weight, spoiler angle, ground clearance, AWD and mpg) 
 1. Use the library() function to load the dplyr package.
 2. Import and read in the MechaCar_mpg.csv file as a dataframe.
 3. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
