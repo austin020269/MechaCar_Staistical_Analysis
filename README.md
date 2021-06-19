@@ -12,12 +12,11 @@ Data provided for the project included the miles per gallon csv (MechaCar_mpg.cs
 
 ## Analysis and Workflow - 
 Deliverable 1: Create a Linear Regression to Predict MPG
-1. Download the data (MechaCar_mpg.csv)
-2. Use the library() function to load the dplyr package.
-3. Import and read in the MechaCar_mpg.csv file as a dataframe.
-4. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
-5. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
-6. Save your MechaCarChallenge.RScript file to your GitHub repository. 
+1. Use the library() function to load the dplyr package.
+2. Import and read in the MechaCar_mpg.csv file as a dataframe.
+3. Perform linear regression using the lm() function and pass in all six variables (i.e., columns), and add the dataframe you created to the data parameter.
+4. Using the summary() function, determine the p-value and the r-squared value for the linear regression model.
+5. Save your MechaCarChallenge.RScript file to your GitHub repository. 
 
 Pandas code:
 
