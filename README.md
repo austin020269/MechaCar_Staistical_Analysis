@@ -41,6 +41,7 @@ This linear model does predict the prototypes reasonably well as it has an R-squ
 total_summary dataframe:
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_2.PNG)
+
 lot_summary dataframe:
 
 ![alt text](https://github.com/austin020269/MechaCar_Staistical_Analysis/blob/main/Deli_2_Image_3.PNG)
