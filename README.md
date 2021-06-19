@@ -74,7 +74,7 @@ Test 3 (Lot 3):
 
 
 
-## Study Design: MechaCar vs Competition (Analysis)
+### Deliverable 4: Study Design: MechaCar vs Competition (Analysis)
 For this deliverable we are asked to provide answers to the following questions:
 - What metric or metrics are you going to test? City and Highway fuel economy.
 - What is the null hypothesis or alternative hypothesis? The null is that they all have the same fuel ecomy vs the alternative is that they are different.
