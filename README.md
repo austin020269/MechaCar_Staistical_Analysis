@@ -1,4 +1,4 @@
-# MechaCar_Staistical_Analysis
+# MechaCar_Statistical_Analysis
 
 UT Bootcamp Module 15 Challenge
 
